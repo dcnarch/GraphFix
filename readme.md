@@ -12,5 +12,6 @@ A better title and graphic for this data set would be as follows:
 # What is the most popular pizza topping in the U.K.?
 ![What is the most popular pizza topping in the U.K.?](PopularToppings.png)
 
+
 Below is the old version:
 ![Original visualization can be seen here](Pizza-01.png)
