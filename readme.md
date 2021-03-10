@@ -9,7 +9,7 @@ Below is the original visualization (yuck!):
 Pie charts really should only be used when illustrating 2 comparative items, say 2 contrasting percentages in a poll (Yes or No) that add up to 100%. Maybe you could add a third option if it is a really small amount, but pie charts can be incredibly difficult to read and digest the more complicated they become.
 
 
-A bar chart would best illustrate the data included within the given data set.
+# A bar chart would best illustrate the data included within the given data set.
 
 A better title and graphic for this data set would be as follows:
 # What is the most popular pizza topping in the U.K.?
